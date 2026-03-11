@@ -1,2 +1,2 @@
-# Exercicio-criar-uma-p-gina-HTML-para-uma-carta
+# Exercicio-criar-uma-pagina-HTML-para-uma-carta
 Carta ao leitor
